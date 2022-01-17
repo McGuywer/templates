@@ -42,7 +42,7 @@ By bridging the two pins you are connecting the 5 V input directly to the relay 
 
 By removing the two 0 ohm SMD resistors next to the jumper you are disconnecting the voltage input from the logic.
 By doing this you can switch AC again like the Sonoff Basic.
-Than You can use the jumpers labeled 5~12 V as your DC voltage for the ESP and relay. 
+Then you can use the jumpers labeled 5~12 V as your DC voltage for the ESP and relay. 
 
 ![](https://www.itead.cc/wiki/images/4/47/Sonoff_SV_mode.jpg)
 
