@@ -8,3 +8,5 @@ _site/
 Gemfile.lock
 .DS_Store
 serve.bat
+
+.jpeg
